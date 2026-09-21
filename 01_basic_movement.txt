@@ -1,0 +1,44 @@
+# PRACTICE: Basic Movement
+#
+# Try: h j k l   w e b   0 $   %
+#
+# 1. Use letter keys (OH NO) to move around this file without touching the arrow keys.
+#    And try the maze...
+#
+# 2. Put your cursor at the start of line 11 and use w / e / b to
+#    hop between "quick", "brown", "fox" and back again. Then try
+#    putting a number in front (ex. 4w) and see what happens
+#
+# 3. Jump back and forth between the beginning and end of the long line
+#
+# 4. Put your cursor on one of the brackets/parens below and jump to its match
+
+
+         start
+           V
+########### ###########
+########### #    ####  < end
+##########  # ###     #
+###   ###  ##   # #####
+### # ### ##### # #   #
+### #     ##### # # # #
+### # ######    #   # #
+### # ###### ## ##### #
+#   ######## ##       #
+###          ##########
+#######################
+
+
+the quick brown fox jumps over the lazy dog near the riverbank at dawn
+
+short line
+a long #$% line that keeps going and going and going and STOPS
+
+function calculateBestClub(members, events, graduates) {
+    total = members *= events + graduates;
+    return (sdev);
+}
+
+[ this line has square brackets ] and (this line has parens) and {this has braces}
+
+one two three four five six seven eight nine ten eleven twelve thirteen

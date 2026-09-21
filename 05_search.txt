@@ -1,0 +1,30 @@
+# PRACTICE: Search & Lines
+#
+# Try: /pattern   ?pattern   o   O   >   <
+#
+# 1. Search forward for "target" and jump back and forth between results
+#
+# 2. Jump to the bottom of the file, search backward for "target"
+#
+# 3. Put your cursor on the "insert below me" line and make a new line below. Type "land down under"
+#
+# 4. Put your cursor on the "insert above me" line and make a new line above. Type "land up over"
+#
+# 5. In indent practice, indent and unindent the first line a few times. Then Visual Block select
+#    The next two lines, and do the same
+
+first target appears here
+some unrelated line
+second target appears here
+another unrelated line
+third target appears here
+
+insert below me
+
+insert above me
+
+indent practice:
+this line should get indented
+
+this line too
+and this one as well

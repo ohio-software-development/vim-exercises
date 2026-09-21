@@ -1,0 +1,34 @@
+# PRACTICE: Folding
+#
+# Try: za   zc   zo   zR   zM
+#
+# Might have to use ':set foldmethod=marker'
+#
+# Then, with your cursor on one of the "SECTION" lines:
+#   za  toggles that fold open/closed
+#   zc  closes it
+#   zo  opens it
+#   zR  opens every fold in the file
+#   zM  closes every fold in the file
+
+# SECTION 1 {{{
+this content is inside section one
+it should collapse into a single line when folded
+so should this line
+# }}}
+
+# SECTION 2 {{{
+this content is inside section two
+    # SUBSECTION 2a {{{
+    a nested fold lives inside section two
+    try folding just this inner block
+    # }}}
+more section two content after the nested fold
+# }}}
+
+# SECTION 3 {{{
+this is the last section
+folds are great for hiding code you're not working on right now
+# }}}
+
+# vim: foldmethod=marker

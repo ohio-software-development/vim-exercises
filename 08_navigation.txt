@@ -1,0 +1,69 @@
+# PRACTICE: Navigation
+# Try: gg   G   Ctrl-O / Ctrl-I   H  M  L
+#
+# 1. Jump between the first and last line of this file a few times
+#
+# 2. Search for a few "waypoint" locations and then jump back and forth between your last visited places
+#
+# 3. Jump between the bottom, middle, and top of the visible screen a few times
+
+line 1 of filler content, nothing special here
+line 2 of filler content, nothing special here
+line 3 of filler content, nothing special here
+line 4 of filler content, nothing special here
+waypoint A -- line 5
+line 6 of filler content, nothing special here
+line 7 of filler content, nothing special here
+line 8 of filler content, nothing special here
+line 9 of filler content, nothing special here
+line 10 of filler content, nothing special here
+line 11 of filler content, nothing special here
+line 12 of filler content, nothing special here
+line 13 of filler content, nothing special here
+line 14 of filler content, nothing special here
+line 15 of filler content, nothing special here
+line 16 of filler content, nothing special here
+line 17 of filler content, nothing special here
+waypoint B -- line 18
+line 19 of filler content, nothing special here
+line 20 of filler content, nothing special here
+line 21 of filler content, nothing special here
+line 22 of filler content, nothing special here
+line 23 of filler content, nothing special here
+line 24 of filler content, nothing special here
+line 25 of filler content, nothing special here
+line 26 of filler content, nothing special here
+line 27 of filler content, nothing special here
+line 28 of filler content, nothing special here
+line 29 of filler content, nothing special here
+waypoint C -- line 30
+line 31 of filler content, nothing special here
+line 32 of filler content, nothing special here
+line 33 of filler content, nothing special here
+line 34 of filler content, nothing special here
+line 35 of filler content, nothing special here
+line 36 of filler content, nothing special here
+line 37 of filler content, nothing special here
+line 38 of filler content, nothing special here
+line 39 of filler content, nothing special here
+line 40 of filler content, nothing special here
+line 41 of filler content, nothing special here
+waypoint D -- line 42
+line 43 of filler content, nothing special here
+line 44 of filler content, nothing special here
+line 45 of filler content, nothing special here
+line 46 of filler content, nothing special here
+line 47 of filler content, nothing special here
+line 48 of filler content, nothing special here
+line 49 of filler content, nothing special here
+line 50 of filler content, nothing special here
+line 51 of filler content, nothing special here
+line 52 of filler content, nothing special here
+line 53 of filler content, nothing special here
+line 54 of filler content, nothing special here
+waypoint E -- line 55
+line 56 of filler content, nothing special here
+line 57 of filler content, nothing special here
+line 58 of filler content, nothing special here
+line 59 of filler content, nothing special here
+line 60 of filler content, nothing special here

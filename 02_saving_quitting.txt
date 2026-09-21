@@ -1,0 +1,21 @@
+# PRACTICE: Saving & Quitting
+#
+# Try: :w   :q   :wq / :x   :q!   ZZ   ZQ
+#
+# 1. Change the word "before" below to "after", then save the file WITHOUT exiting
+#
+# 2. Make another edit, then quit and save in one step
+#
+# 3. Make an edit you DON'T want to keep, then discard it and exit in one step
+#
+# 4. Reopen the file, make a small edit, and save and quit with the two-letter normal mode shortcut
+#
+# 5. Reopen again, make an edit, and quit without saving using the two-letter normal mode shortcut
+
+status: before
+
+
+> [!NOTE]
+> this file is safe to edit and re-edit as many times as you like
+
+- nothing here matters, it's just for practice

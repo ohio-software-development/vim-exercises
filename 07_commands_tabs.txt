@@ -1,0 +1,22 @@
+# PRACTICE: Terminal, Tabs, Buffers & Help
+#
+# Try: :   :terminal   gt / gT   :tabe   :tabc   :bd   :tutor   :help   :history
+
+# 1. Enter command-line mode and exit to Normal mode a few times
+#
+# 2. Run a terminal buffer inside Vim, run `ls`, then exit (run `exit`)
+#
+# 3. Open 01_basic_movement.txt in a new tab to open another practice file in a
+#    new tab (adjust the path if needed). Use gt and gT to switch tabs.
+#
+# 4. Close that tab
+#
+# 5. Open a second file as a buffer, then close it with :bd.
+#
+# 6. Look at your command history :0000
+#
+# 7. Run the help page for "w" so it can tell you the same thing I did. Close like you would a file without changes
+#
+# 8. Run the tutor sometime if you like being awesome
+
+Nothin' to see here folks, get back to your dang lesson

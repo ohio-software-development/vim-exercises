@@ -1,0 +1,15 @@
+# PRACTICE: You Should Know
+#
+# Try: /pattern + cgn      ci"  ci(  ci{
+#
+# 1. Search for the variable "oldName" below and update occurrances to "newName"
+
+let oldName = 1;
+oldName = oldName + 1;
+console.log(oldName);
+return oldName;
+
+# 2. Put your cursor anywhere inside the quotes/parens/braces below and change their contents
+const greeting = "replace this text";
+total(price, quantity);
+config = { key: "value" };

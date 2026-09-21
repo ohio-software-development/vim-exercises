@@ -1,0 +1,26 @@
+# PRACTICE: Entering Modes
+#
+# Try: i   a   v   r   Ctrl-Q   ~   f{char}
+#
+# 1. Insert your name at the start of the line below marked TODO
+#
+# 2. Append " - done" after the word "task" on the same line
+#
+# 3. Visually select the word "select" below, then delete it without entering insertion mode
+#
+# 4. Put your cursor on the line with x's and change each letter in replace mode so it says "software"
+#
+# 5. Use ~ on the word "flip" to toggle its case, letter by letter. Then select and flip the whole sentence after
+#
+# 6. Use f followed by a character (like fq) to jump along a line to it
+
+TODO: is the owner of this line
+
+please select this word and delete it
+
+xxxxxxxx
+
+flip
+FLIP THIS WHOLE SENTENCE WITH ONE COMMAND
+
+the quick brown fox jumps over a lazy sleeping dog by the quiet stream

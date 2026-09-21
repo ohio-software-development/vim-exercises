@@ -1,0 +1,24 @@
+# PRACTICE: Edit, Copy & Undo
+#
+# Try: d (dd, dw, d$)   y (yy, yw)   p   u   U   Ctrl-R
+#
+# 1. Delete the whole "DELETE ME" line
+#
+# 2. Yank (copy) the "COPY ME" line, then paste it below
+#
+# 3. Delete just the word "extra" from the sentence below using one command
+#
+# 4. Make several changes to the "undo me" line, then undo and redo a few
+#
+# 5. Make several edits on the "whole line undo" row, then undo all at once
+
+DELETE ME - this whole line should disappear
+
+COPY ME - this line should get duplicated below
+paste here ->
+
+this sentence has one extra word too many in it
+
+undo me: edit this line a few different ways
+
+whole line undo: change several things on this one line, then press U
