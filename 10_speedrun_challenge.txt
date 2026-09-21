@@ -1,0 +1,54 @@
+# ============================================================
+# SPEEDRUN CHALLENGE
+# ============================================================
+# Fix every bug below, make sure to SAVE YOUR WORK
+# Use ANY command from the workshop to fix each one — there's
+# no "right" way to do it, only a right result.
+# Ignore any lines with '#' at the start, they're comment lines
+# When you think you're done, shout "DONE" and put your hands up
+# ============================================================
+
+# BUG 1 -- fix the typo
+Vim is a fsat and powerful text editor.
+
+# BUG 2 -- put these words back in the right order:
+# "the quick brown fox jumped over the lazy dog"
+brown fox quick the jumped over lazy dog the
+
+# BUG 3 -- this warning should be SHOUTING (all caps)
+warning: dragons ahead
+
+# BUG 4 -- one character is wrong
+V1m is great once it clicks.
+
+# BUG 5 -- delete this entire line, it shouldn't be here
+this line should not exist, delete it completely
+
+# BUG 6 -- add a new line directly below this one that says exactly:
+# session complete
+marker: add your line below this
+
+# BUG 7 -- one of these three lines doesn't match its siblings' indentation, fix it
+function block:
+    alpha step runs first
+beta step runs second
+    gamma step runs third
+
+# BUG 8 -- replace every "todo" below with "done" (there are 3)
+step one: todo
+step two: todo
+step three: todo
+
+# BUG 9 -- fix the value inside the quotes so it reads: name = "Ada Lovelace"
+name = "REPLACE_ME"
+
+# BUG 10 -- fix the value inside the parentheses so it reads: scale(2.5)
+scale(REPLACE_ME)
+
+# BUG 11 -- comment out these three lines by adding "// " to the start of each
+print("alpha")
+print("beta")
+print("gamma")
+
+# BUG 12 -- duplicate the line below (as-is) so it appears twice in a row
+COPY-ME: the final boss line
